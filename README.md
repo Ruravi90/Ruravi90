@@ -10,7 +10,7 @@
 ### <img src="https://raw.githubusercontent.com/ikismail/ikismail/master/catty.gif" width="50"> A little more about me...
 
 ```javascript
-const ikismail = {
+const Ruravi90 = {
   pronouns: "He" | "Him",
   code: ["TIBCO","C#","Javascript", "Typescript", "JAVA (Basic)", "Python (Basic)"],
   askMeAbout: ["web dev", "tech", "app dev"],
