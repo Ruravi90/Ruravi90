@@ -1,25 +1,56 @@
-### Hi, I'm RuraviAguilar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
-## Your short description
-- 🔭 I’m currently working on - ❔❔❔❔
-- 🌱 I’m currently learning - ❔❔❔❔
-- 👯 I’m looking to collaborate with - ❔❔❔❔
-- 💬 Ask me about - ❔❔❔❔
-- 🥅 2020 Goal - ❔❔❔❔
-- ⚡ Fun fact - ❔❔❔❔
-<!-- ❔❔❔❔ means username in below README.md -->
-<!-- Also feel free to update second URL to any URL -->
-[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=❔❔❔❔&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
-## Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-<!-- Optional if you have blogs -->
-## Latest blog posts:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<!-- This section you create this variables that are used above -->
-[website]: https://google.com
-[twitter]: https://twitter.com/indrajeet_nikam
-[linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/
+<h2>Hello, I'm Mohammed Ismail! <img src="https://raw.githubusercontent.com/ikismail/ikismail/master/smario.gif" width="50"></h2>
+<img align='right' src="https://raw.githubusercontent.com/ikismail/ikismail/master/user.gif" width="230">
+<p><em>Software Engineer at <a href="http://biznessforce.com/">Biznessforce Software Solutions</a><img src="https://raw.githubusercontent.com/ikismail/ikismail/master/working_cat.gif" width="30"> 
+</em></p>
+
+[![Linkedin: ruravi-aguilar](https://img.shields.io/badge/-Ruravi%20Aguilar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruravi-aguilar/)](https://www.linkedin.com/in/ruravi-aguilar/)
+![GitHub followers](https://img.shields.io/github/followers/Ruravi90?label=Follow&style=social)
+![](https://visitor-badge.laobi.icu/badge?page_id=Ruravi90)
+
+### <img src="https://raw.githubusercontent.com/ikismail/ikismail/master/catty.gif" width="50"> A little more about me...
+
+```javascript
+const ikismail = {
+  pronouns: "He" | "Him",
+  code: ["TIBCO","C#","Javascript", "Typescript", "JAVA (Basic)", "Python (Basic)"],
+  askMeAbout: ["web dev", "tech", "app dev"],
+  technologies: {
+    mobileApp: ["Xamarin (Basic)","Flutter (Basic)"],
+    frontEnd: {
+      js: [
+        "Angular",
+        "React",
+        "Vuejs",
+      ],
+      css: ["Material", "bootstrap"],
+    },
+    backEnd: {
+      js: ["node", "express","net core"],
+    },
+    databases: ["Mysql","SQL Server"],
+  },
+  architecture: ["Progressive web applications", "Single page applications"],
+};
+```
+
+<!-- GitHub Readme Stats -->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ruravi90&count_private=true&show_icons=true&hide=contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruravi90&layout=compact&hide=c%2B%2B)](https://github.com/Ruravi90/github-readme-stats)
+
+<img src="https://raw.githubusercontent.com/ikismail/ikismail/master/connections.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+## <!-- // GitHub Readme Stats -->
+
+<!-- Code Time
+
+### 🐲 Your weekly language rankings
+
+               javascript : ▮▮▮▮▮▮ 26.7%
+                     html : ▮▮▮▮▮ 20.0%
+                plaintext : ▮▮▮▮▮ 20.0%
+               typescript : ▮▮▮▮▮ 20.0%
+                     scss : ▮▮ 6.7%
+                     json : ▮▮ 6.7%
+
+End Code Time -->
