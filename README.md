@@ -1,6 +1,6 @@
-<h2>Hello, I'm Mohammed Ismail! <img src="https://raw.githubusercontent.com/ikismail/ikismail/master/smario.gif" width="50"></h2>
+<h2>Hello, I'm Ruravi Aguilar! <img src="https://raw.githubusercontent.com/ikismail/ikismail/master/smario.gif" width="50"></h2>
 <img align='right' src="https://raw.githubusercontent.com/ikismail/ikismail/master/user.gif" width="230">
-<p><em>Software Engineer at <a href="http://biznessforce.com/">Biznessforce Software Solutions</a><img src="https://raw.githubusercontent.com/ikismail/ikismail/master/working_cat.gif" width="30"> 
+<p><em>Software Engineer at <a href="https://algartech.com/en/">Algartech</a><img src="https://raw.githubusercontent.com/ikismail/ikismail/master/working_cat.gif" width="30"> 
 </em></p>
 
 [![Linkedin: ruravi-aguilar](https://img.shields.io/badge/-Ruravi%20Aguilar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruravi-aguilar/)](https://www.linkedin.com/in/ruravi-aguilar/)
