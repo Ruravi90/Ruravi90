@@ -1,5 +1,5 @@
 <h2>Hello, I'm Ruravi Aguilar! <img src="https://raw.githubusercontent.com/Ruravi90/Ruravi90/main/smario.gif" width="50"></h2>
-<img align='right' src="https://raw.githubusercontent.com/Ruravi90/Ruravi90/main/coding.gif" width="230">
+<img align='right' src="https://raw.githubusercontent.com/Ruravi90/Ruravi90/main/codejs.gif" width="230">
 <p><em>Software Engineer at <a href="https://algartech.com/en/">Algartech</a><img src="https://raw.githubusercontent.com/ikismail/ikismail/master/working_cat.gif" width="30"> 
 </em></p>
 
@@ -7,7 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Ruravi90?label=Follow&style=social)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Ruravi90)
 
-### <img src="https://raw.githubusercontent.com/Ruravi90/Ruravi90/main/llaves.gif" width="50"> A little more about me...
+### <img src="https://raw.githubusercontent.com/Ruravi90/Ruravi90/main/consola.gif" width="30"> A little more about me...
 
 ```javascript
 const Ruravi90 = {
