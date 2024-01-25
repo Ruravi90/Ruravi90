@@ -1,7 +1,8 @@
-<h2>Hello, I'm Ruravi Aguilar! <img src="https://raw.githubusercontent.com/Ruravi90/Ruravi90/main/smario.gif" width="50"></h2>
+<h2>Hello, I'm Ruravi Aguilar!</h2>
 <img align='right' src="https://raw.githubusercontent.com/Ruravi90/Ruravi90/main/codejs.gif" width="230">
-<p><em>Software Engineer at <a href="https://algartech.com/en/">Algartech</a><img src="https://raw.githubusercontent.com/ikismail/ikismail/master/working_cat.gif" width="30"> 
-</em></p>
+<p>
+  <em>Software Engineer at <a href="https://algartech.com/en/">Algartech</a></em>
+</p>
 
 [![Linkedin: ruravi-aguilar](https://img.shields.io/badge/-Ruravi%20Aguilar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruravi-aguilar/)](https://www.linkedin.com/in/ruravi-aguilar/)
 ![GitHub followers](https://img.shields.io/github/followers/Ruravi90?label=Follow&style=social)
